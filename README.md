@@ -63,16 +63,20 @@ em Laravel através de [estudos](https://github.com/emanuellyv/estudos).
 <br/>
 <br/>
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=emanuellyv&hide=contribs,prs&rank_icon=github&custom_title=Estatísticas&theme=radical&include_all_commits=true&locale=pt-br" 
-/>
-<img 
+<p>
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="180" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=emanuellyv&hide=contribs,prs&rank_icon=github&custom_title=Estatísticas&theme=radical&include_all_commits=true&locale=pt-br" 
+    /> 
+</p>
+<p>
+    <img 
       align="left" 
       alt="GitHub Stats" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellyv&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+    />
+</p>
