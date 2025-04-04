@@ -75,6 +75,6 @@ em Laravel através de [estudos](https://github.com/emanuellyv/estudos).
   align="left" 
   alt="GitHub Stats" 
   height="180"
-  width="200"
+  width="350"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellyv&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
